@@ -1,0 +1,37 @@
+.navbar-inverse .navbar-nav > .active > a,
+ .navbar-inverse .navbar-nav > .active > a:hover, 
+ .navbar-inverse .navbar-nav > .active > a:focus
+ {
+ 	background-color: #2a8e0d
+ }
+.dropdown-menu
+ {
+ 	
+ 	border-top: 3px solid #2a8e0d;
+ 	
+ }
+.carousel-indicators .active
+ {
+ 	
+ 	background: #2a8e0d
+ }
+.option-box .color-option
+ {
+ 	
+ 	border: 4px solid #2a8e0d
+ }
+ .option-box .fa-dice
+ {
+ 	
+ 	background: #2a8e0d;
+ 	
+ }
+.feature .feat span.glyphicon:hover
+ {
+ 	color: #2a8e0d
+ }
+.testimonials .carousel-indicators li.active
+{
+	
+    border: 3px solid #2a8e0d;
+}
